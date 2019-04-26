@@ -2,6 +2,6 @@
 .ipython
 .jupyter
 .local
-data/*
+data/big/
 .ipynb_checkpoints
 \.wget-hsts
