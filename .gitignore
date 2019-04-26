@@ -1,0 +1,7 @@
+.cache
+.ipython
+.jupyter
+.local
+data/*
+.ipynb_checkpoints
+\.wget-hsts
